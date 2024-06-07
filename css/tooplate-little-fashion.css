@@ -483,17 +483,17 @@ strong {
   background-color: var(--section-bg-color);
   position: relative;
   overflow: hidden;
-  margin-top: 20px;
+  margin-top: 86px;
 }
 
 .site-header.section-padding {
-  padding-top: 10rem;
-  padding-bottom: 1rem;
+  padding-top: 7rem;
+  padding-bottom: 7rem;
 }
 
 .site-header.section-padding-img {
-  padding-top: 8rem;
-  padding-bottom: 8rem;
+  padding-top: 10rem;
+  padding-bottom: 10rem;
 }
 
 .header-image {
@@ -825,12 +825,11 @@ button:focus:not(:focus-visible) {
 
 .modal-body {
   padding: 4rem;
-  padding-top: 1rem;
 }
 
 .modal-header {
   padding-top: 7rem;
-  padding-bottom: 1rem;
+  padding-bottom: 5rem;
 }
 
 .modal-header .btn-close {
@@ -1180,6 +1179,4 @@ button:focus:not(:focus-visible) {
     bottom: 0;
   }
 }
-
-
 
